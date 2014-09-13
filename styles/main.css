@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+#header {
+    text-align: left;
+    color: white;
+    background-color: #676668;
+    height: 100px;
+    padding-top: 5pt;
+}
+
+#content {
+    text-align: left;
+    color: black;
+     background-color: white;
+    height: 100px;
+    padding-top: 5pt;
+}
+
+#footer {
+    text-align: left;
+    color: gray;
+     background-color: black;
+    height: 50px;
+    font-size: 6pt;
+    padding-top: 5pt;
+}
